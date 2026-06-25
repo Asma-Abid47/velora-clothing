@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", () => {
+git statusdocument.addEventListener("DOMContentLoaded", () => {
   const grid = document.getElementById("wishlistGrid");
   if (!grid) return;
 
